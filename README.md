@@ -1,2 +1,2 @@
-`using namespace College`
+`namespace College`
 # simple-todo
